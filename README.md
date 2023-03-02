@@ -1,4 +1,10 @@
-### Hi there 👋
+<img src="/header.png" alt="альтернативный текст">
+
+[![codewars](https://www.codewars.com/users/RusyaZol/badges/large)](https://www.codewars.com/users/username)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+start+my+way+to+the+place;I+want+to+become+a+python+developer)](https://git.io/typing-svg)
+
+
 
 <!--
 **NRAZOL/NRAZOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
