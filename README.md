@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NRAZOL" />
+</p>
+
 <h1 align="center">Hi there, I'm Ruslan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -15,9 +19,7 @@
 </div>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NRAZOL" />
-</p>
+
 
 
 <p align="center">
